@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background: linear-gradient(rgb(9, 16, 84),rgb(139, 19, 19));
+
+}
+
+.sec-1 {
+    box-shadow: 10px 10px 30px 1px rgb(88, 5, 96);
+    display: flex;
+    margin-left: ;
+
+    padding-left: px;
+    padding-right: px;
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 100px;
+
+}
+
+.box-1 {
+    box-shadow: 10px 10px 30px 1px blue;
+    width: 50%;
+    height: 400px;
+    margin-left: px;
+    padding-right: px;
+    padding-left: px;
+    margin-left: px;
+    margin-right: 30px;
+    padding-top: px;
+    margin-bottom: px;
+    border-radius: 100px;
+    
+
+}
+
+.box-2 {
+    box-shadow: 10px 10px 30px 1px rgb(255, 0, 0);
+    width: 50%;
+    height: 400px;
+    margin-right: px;
+    margin-left: 30px;
+    border-radius: 100px;
+
+
+
+
+}
+
+.sec-2 {
+    display: flex;
+    margin-top: 50px;
+    box-shadow: 10px 10px 30px 5px blueviolet;
+    margin-bottom: 100px;
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 200px;
+
+}
+.box-3{
+    width: 600px;
+    height: 500px;
+    box-shadow: 10px 10px 20px 5px orangered;
+    margin-left: 10%;
+    border-radius: 900px;
+
+
+}
+.box-4{
+    width: 200px;
+    height: 150px;
+    box-shadow: 10px 10px 20px 5px pink;
+    margin-left: 50px;
+    border-radius: 100px;
+
+}
+.box-5{
+    width: 600px;
+    box-shadow: 10px 10px 30px 4px rgb(54, 188, 20);
+    margin-left: 50px;
+    margin-right: ;
+    border-radius: 900px;
+
+
+
+}
